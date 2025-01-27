@@ -1,0 +1,2 @@
+# KataGit
+Repo for homework
